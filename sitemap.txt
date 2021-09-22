@@ -3,3 +3,4 @@ https://www.thewof.xyz/english.html
 https://www.thewof.xyz/chemistry.html
 https://www.thewof.xyz/physics.html
 https://www.thewof.xyz/biology.html
+https://www.thewof.xyz/tools.html
